@@ -1,8 +1,4 @@
-# Aplicación financiera Tus Finanzas
-Objetivos iniciales del proyecto
-Identificar cuales son las posibles causas del rebote en el landing page.
-identificar pains tanto de la app.
-Realizar una propuesta de rediseño de app con un flujo mucho más amigable para el usuario.
+# Aplicación financiera Tus Finanzas - Resideño
 
 ## Objetivos Iniciales
 
@@ -24,21 +20,20 @@ Luego de realizar un testeo 6 usuarios del actual prototipo encontramos los sigu
 2. El usuario no escoge la periodicidad de su cuota de ahorro, y solo ve la frecuencia y el monto a ahorrar casi al finalizar “crear cuenta”, esto le ocasiona incomodidad.
 3. La mayoría de usuarios testeados y entrevistados reciben su sueldo en su respectiva tarjeta, las cuales utilizan para realizar compras en establecimientos con este medio de pago, sin embargo existe un gran porcentaje de usuarios que retiran su dinero y no llevan el control de sus gastos o les parece pesado detallar cada gasto de manera manual. Ellos suelen analizar los gastos del mes actual y ponerles como un tope para el próximo mes poder no sobrepasar este monto y ahorrar.
 
+## Planeamiento y presupuesto
+Hemos trabajado en base a un presupuesto de 345 puntos, para ver el sustento y detalle, hacer click [aquí](https://docs.google.com/spreadsheets/d/1iTTE4I9BoogeJpxasQy6_O3esUpVbxuLFGqa4HDFR6U/edit)
+
 ### Benchmark
 
-![benchmarck](https://user-images.githubusercontent.com/38932099/46122400-0eccbf80-c1de-11e8-89d8-37351f754248.png)
+<p align = "center"><img src="benchmarck.png " alt="talleres" border="0"></p>
+
+### Entrevistas
+
+Realizamos 5 entrevistas, entre ellas una pareja de esposos, puedes consultar la guía de preguntas elaboradas a usuarios [aquí](https://drive.google.com/drive/folders/1qaPnOur8W1crgtfNnjKHyNUSoNZ3Ajzp), en donde también encontrarás las conclusiones, los videos y audios realizados.
 
 ### User Persona
 
-![userpersona](https://user-images.githubusercontent.com/38932099/46122489-86025380-c1de-11e8-8054-b1cf440ef421.png)
-
-
-
-## Planeamiento y presupuesto
-
-
-
-
+<p align = "center"><img src="userPersona.png " alt="talleres" border="0"></p>
 
 
 ## Recomendaciones:
@@ -52,13 +47,29 @@ Luego de realizar un testeo 6 usuarios del actual prototipo encontramos los sigu
 ## Prototyping
  
 ### 1. Sketch
-![skecth](https://user-images.githubusercontent.com/38932099/46122976-733d4e00-c1e1-11e8-94ad-65dfd2cc35e4.jpg)
+Iniciamos realizando un prototipo de baja fidelidad en donde plasmamos diversas ideas para el flujo de "gastos y ahorros" deacuerdo a las conclusiones de testing del prototipo interactivo inicial y de las entrevistas a usuarios.
+
+<p align = "center"><img src="skecth.jpg " alt="talleres" border="0"></p>
 
 ### 2. Prototipo de Alta Fidelidad
 
+Puedes ver el prototipo de alta fidelidad que realizamos en Figma [aquí](https://www.figma.com/file/cx9Bb3rkGkGoo130qJ8nor/proyecto-Tus-Finanzas-App-redise%C3%B1o?node-id=0%3A1)
+
+
 ### 3. Prototipo Interactivo
 
+El protitpo interactivo lo realizamos en marvel, puedes dar click a [Tus finanzas app](https://marvelapp.com/5j3hbj9/screen/48324252) para poder visualizarlo.
+
+Realizando los testing y entrevista nos dimos cuenta que el usuario esperaba avisos, recordatorios o notificaciones tanto a nivel de ahorro como en gastos, es por ellos que decimos implementar las notificaciones avisando el ahorro automático y los recordatorios del tope de gasto de la categoría que eligan.
+
+<p align = "center"><img src="notificacion.png " alt="talleres" border="0"></p>
+
+<p align = "center"><img src="notificacion1.png" alt="talleres" border="0"></p>
+
+
 ### 4. Diseño para desarrolladores
+
+[Link de zeplin](https://zpl.io/VQE3Qjk)
 
 ### 5. Demo
 
