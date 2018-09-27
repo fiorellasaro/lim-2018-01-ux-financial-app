@@ -6,7 +6,7 @@
 * Identificar pains tanto de la app.
 * Realizar una propuesta de rediseño de app con un flujo mucho más amigable para el usuario
 
-## Problemas encontrados a nivel de negocio 
+### Problemas encontrados a nivel de negocio 
 Luego de realizar un testeo 6 usuarios del actual prototipo encontramos los siguientes problemas:
 
 1. En el landing page no visualiza la disponibilidad para el dispositivo (actualmente solo para IOS).
