@@ -3,14 +3,21 @@
 ## Objetivos Iniciales
 
 * Identificar cuales son las posibles causas del rebote en el landing page.
-* Identificar pains tanto de la app.
-* Realizar una propuesta de rediseño de app con un flujo mucho más amigable para el usuario
+* Identificar los problemas que posee actualmente la app.
+* Realizar una propuesta de rediseño de app con un flujo mucho más amigable para el usuario.
 
 ### Problemas encontrados a nivel de negocio 
-Luego de realizar un testeo 6 usuarios del actual prototipo encontramos los siguientes problemas:
+
+#### Conclusiones de la data
+
+Se nos proporcionó una data de la aplicación de los primero 6 meses desde el lanzamiento de la aplicación Tus finanzas el cual pasamos a analizar para tener un mayor entendimiento del negocio como determinar posibles problemas. Las conclusiones de la data se pueden visualizar en [esta](https://docs.google.com/presentation/d/1Z7585VzphH2l1c1yBimRueJYj4Xl-_PyPUh6WX7KRwQ/edit?usp=sharing) presentación.
+
+#### Testing de la aplicación actual a rediseñar
+
+Se realizó testing a 6 usuarios del actual prototipo encontramos los siguientes problemas:
 
 1. En el landing page no visualiza la disponibilidad para el dispositivo (actualmente solo para IOS).
-2. La mayor cantidad de personas que ingresan al landing page son usuarios de androi.
+2. La mayor cantidad de personas que ingresan al landing page son usuarios de android.
 3. El formulario para enviar el link de descarga, es algo incomodo para los usuarios.
 4. La cantidad de impresiones de facebook difiere demasiado a las vistas al landing page.
 
@@ -21,19 +28,25 @@ Luego de realizar un testeo 6 usuarios del actual prototipo encontramos los sigu
 3. La mayoría de usuarios testeados y entrevistados reciben su sueldo en su respectiva tarjeta, las cuales utilizan para realizar compras en establecimientos con este medio de pago, sin embargo existe un gran porcentaje de usuarios que retiran su dinero y no llevan el control de sus gastos o les parece pesado detallar cada gasto de manera manual. Ellos suelen analizar los gastos del mes actual y ponerles como un tope para el próximo mes poder no sobrepasar este monto y ahorrar.
 
 ## Planeamiento y presupuesto
-Hemos trabajado en base a un presupuesto de 345 puntos, para ver el sustento y detalle, hacer click [aquí](https://docs.google.com/spreadsheets/d/1iTTE4I9BoogeJpxasQy6_O3esUpVbxuLFGqa4HDFR6U/edit)
+Hemos trabajado en base a un presupuesto de 330 puntos, para ver el sustento y detalle, hacer click [aquí](https://docs.google.com/spreadsheets/d/1iTTE4I9BoogeJpxasQy6_O3esUpVbxuLFGqa4HDFR6U/edit)
 
 ### Benchmark
 
 <p align = "center"><img src="benchmarck.png " alt="talleres" border="0"></p>
 
+### Testing
+
+Antes de realizar las entrevistas con los usuarios decidimos realizar testing de la actual aplicación a 6 usuarios para identificar los diferentes problemas y dificultades que podría estar presentando la aplicación para los usuarios. [Aquí](https://drive.google.com/drive/folders/1tX4PPUeOUeuWNRhZAqV5d19Zht0OU53D?usp=sharing), podrás visualizar la guía de testing en donde también se encuentran las conclusiones, los videos y audios realizados. Finalmente, se realizó un [affinity map](https://realtimeboard.com/app/board/o9J_kzenrq8=/) sobre las conclusiones de los testing. 
+
 ### Entrevistas
 
-Realizamos 5 entrevistas, entre ellas una pareja de esposos, puedes consultar la guía de preguntas elaboradas a usuarios [aquí](https://drive.google.com/drive/folders/1qaPnOur8W1crgtfNnjKHyNUSoNZ3Ajzp), en donde también encontrarás las conclusiones, los videos y audios realizados.
+Realizamos 5 entrevistas, entre ellas una pareja de esposos, puedes consultar la guía de preguntas elaboradas a usuarios [aquí](https://drive.google.com/drive/folders/1qaPnOur8W1crgtfNnjKHyNUSoNZ3Ajzp), en donde también encontrarás las conclusiones, los videos y audios realizados. Finalmente, se realizó un [affinity map](https://realtimeboard.com/app/board/o9J_kzepe7g=/) sobre las conclusiones de las entrevistas. 
+
 
 ### User Persona
 
 <p align = "center"><img src="userPersona.png " alt="talleres" border="0"></p>
+
 
 
 ## Recomendaciones:
@@ -42,6 +55,45 @@ Realizamos 5 entrevistas, entre ellas una pareja de esposos, puedes consultar la
 * Mejorar el landing page, solo el 12.35% de los que visitan el landing pages visitan el app store.
 * Diseñar y desarrollar la aplicación para android, ya que existe gran parte de visitantes que poseen dispositivos con este sistema operativo.
 * Por los resultados brindados en los testeos y entrevistas proponemos la Modificación del diseño y desarrollo de la app para un nuevo flujo de las funcionalidades en  “Gastos y ahorros”.
+
+
+## Propuestas:
+
+### Landing page: 
+
+* Indicar que la aplicación es para IOS.
+
+* El botón de descarga debe mandar directo al App store y retirar formulario de descarga.
+
+
+### Registro: 
+
+* Eliminar opción de foto de perfil.
+ 
+
+### Gastos: 
+
+* Visualizar total de gastos.
+* Opción dividir y personalizar retiro efectivo.
+* Categorías de gastos: Servicios, alimentos, transporte, otros etc.
+* Opción de agregar tope a cada categoría de gasto.
+* Opción a agregar categoría de gasto.
+* Gráficos sobre tus gastos.
+
+
+### Ahorros: 
+
+* Cambiar nombre de opción “crear cuenta” a “crear meta”.
+* Opción crear meta: El usuario puede seleccionar periodicidad a ahorrar: diario, semanal, mensual, quincenal. La aplicación calcular cuánto demorarán en ahorrar según los datos proporcionados antes de confirmar la meta de ahorro.
+* Gráficos sobre tus ahorros.
+
+
+### Notificaciones:
+
+* La aplicación notificará al usuario cuando este esté cerca a llegar al tope de gasto que él mismo se puso. Esto ayudará al usuario a medirse en cuanto a determinados gastos.
+
+* La aplicación notificará al usuario cada vez que la aplicación automáticamente pase el monto de ahorro desde su saldo a la meta de ahorro.
+
 
 
 ## Prototyping
@@ -67,11 +119,30 @@ Realizando los testing y entrevista nos dimos cuenta que el usuario esperaba avi
 <p align = "center"><img src="notificacion1.png" alt="talleres" border="0"></p>
 
 
+Por último, se generó un nuevo [Userflow](https://userflows.marvelapp.com/5j3hbj9) .
+
+
 ### 4. Diseño para desarrolladores
 
 [Link de zeplin](https://zpl.io/VQE3Qjk)
 
-### 5. Demo
+### 5. Presentación de demo
+
+Se realizó una presentación de 5 minutos en [loom](<!-- FALTA LINK -->) explicando el desarrollo del proyecto; así como también mostramos el demo de la solución propuesta.
+
+### 6. Hacker edition
+
+Realizamos el primer punto del hacker edition el cuál se puede visualizar [aquí](https://docs.google.com/document/d/1BaNfF4g5cqwvpfZMfraOqA98dCQhruOGrk_Mo88YTrs/edit?usp=sharing).
+
+
+
+
+
+
+
+
+
+
 
 
 
