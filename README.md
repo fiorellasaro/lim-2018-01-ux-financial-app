@@ -128,7 +128,7 @@ Por último, se generó un nuevo [Userflow](https://userflows.marvelapp.com/5j3h
 
 ### 5. Presentación de demo
 
-Se realizó una presentación de 5 minutos en [loom](<!-- FALTA LINK -->) explicando el desarrollo del proyecto; así como también mostramos el demo de la solución propuesta.
+Se realizó una presentación de 5 minutos en [loom](https://www.useloom.com/share/657cc36489e5499b869c3d48a614ec4e) explicando el desarrollo del proyecto; así como también mostramos el demo de la solución propuesta.
 
 ### 6. Hacker edition
 
