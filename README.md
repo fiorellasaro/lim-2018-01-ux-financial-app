@@ -112,25 +112,32 @@ Puedes ver el prototipo de alta fidelidad que realizamos en Figma [aquí](https:
 
 El protitpo interactivo lo realizamos en marvel, puedes dar click a [Tus finanzas app](https://marvelapp.com/5j3hbj9/screen/48324252) para poder visualizarlo.
 
-Realizando los testing y entrevista nos dimos cuenta que el usuario esperaba avisos, recordatorios o notificaciones tanto a nivel de ahorro como en gastos, es por ellos que decimos implementar las notificaciones avisando el ahorro automático y los recordatorios del tope de gasto de la categoría que eligan.
+### 4. Otras de nuestras propuestas
+
+Realizando los testing y entrevista nos dimos cuenta que el usuario esperaba avisos, recordatorios o notificaciones tanto a nivel de ahorro como en gastos, es por ellos que proponemos las notificaciones avisando el ahorro automático y los recordatorios del tope de gasto de la categoría que eligan.
 
 <p align = "center"><img src="notificacion.png " alt="talleres" border="0"></p>
 
 <p align = "center"><img src="notificacion1.png" alt="talleres" border="0"></p>
 
+Ahora para fomentar más el ahorro proponemos que el usuario gane intereses cada mes y que este mismo tenga la opción de escoger a que meta de ahorro desea que le abonen el interés ganado.
+
+<p align = "center"><img src="fomentarAhorro.png " alt="talleres" border="0"></p>
+
+
 
 Por último, se generó un nuevo [Userflow](https://userflows.marvelapp.com/5j3hbj9) .
 
 
-### 4. Diseño para desarrolladores
+### 5. Diseño para desarrolladores
 
 [Link de zeplin](https://zpl.io/VQE3Qjk)
 
-### 5. Presentación de demo
+### 6. Presentación de demo
 
 Se realizó una presentación de 5 minutos en [loom](https://www.useloom.com/share/657cc36489e5499b869c3d48a614ec4e) explicando el desarrollo del proyecto; así como también mostramos el demo de la solución propuesta.
 
-### 6. Hacker edition
+### 7. Hacker edition
 
 Realizamos el primer punto del hacker edition el cuál se puede visualizar [aquí](https://docs.google.com/document/d/1BaNfF4g5cqwvpfZMfraOqA98dCQhruOGrk_Mo88YTrs/edit?usp=sharing).
 
