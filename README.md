@@ -110,7 +110,7 @@ Puedes ver el prototipo de alta fidelidad que realizamos en Figma [aquí](https:
 
 ### 3. Prototipo Interactivo
 
-El protitpo interactivo lo realizamos en marvel, puedes dar click a [Tus finanzas app](https://marvelapp.com/5j3hbj9/screen/48324252) para poder visualizarlo.
+El protitpo interactivo lo realizamos en marvel, puedes dar click a [Tus finanzas app](https://marvelapp.com/5j3hbj9/screen/48644047) para poder visualizarlo.
 
 Realizando los testing y entrevista nos dimos cuenta que el usuario esperaba avisos, recordatorios o notificaciones tanto a nivel de ahorro como en gastos, es por ellos que decimos implementar las notificaciones avisando el ahorro automático y los recordatorios del tope de gasto de la categoría que eligan.
 
